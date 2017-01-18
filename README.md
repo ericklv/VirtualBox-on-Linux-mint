@@ -18,4 +18,4 @@ On boot
 
 After reboot
 1. sudo modprobe vboxdrv
-2. Execute virtualbox
+2. Execute virtualbox normally
